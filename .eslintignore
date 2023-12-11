@@ -1,0 +1,6 @@
+.vscode
+node_modules
+public
+**/*.js
+.next
+tailwind.config.cjs
